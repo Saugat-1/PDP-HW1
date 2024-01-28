@@ -15,6 +15,6 @@
   - Then, after the user has enter the number the prompt will be deleted and the remaining prompts will be displayed.
     
 ### Note for execution:
-  - When the "Enter a word or sentence from the prompt" is displayed you can enter "What" then the list of prompts that contain "What" will be displayed/
+  - When the "Enter a word or sentence from the prompt" is displayed you can enter "What" then the list of prompts that contain "What" will be displayed
   - Then, enter the number of the prompt you want to delete
   - Finally, the list of prompts after removing a prompt will be displayed.
